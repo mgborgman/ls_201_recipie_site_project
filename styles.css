@@ -1,0 +1,28 @@
+body {
+	font-size: 20px;
+	color: #666;
+}
+
+h1 {
+	color: cadetblue;
+}
+
+h2 {
+	color: crimson;
+}
+
+#ingredients_header {
+	color: lime;
+}
+
+#directions_header {
+	color: fuchsia;
+}
+
+.ingredients {
+	font-style: italic;
+}
+
+.directions {
+	font-family: sans-serif;
+}
